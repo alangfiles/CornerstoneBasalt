@@ -6,19 +6,20 @@
 
 body
 {
-  background-color:maroon;
-
+  background-color: #4D1810;
 }
+.module
+{
+  padding:10px;
+  background-color:white;
+  border-radius:8px;
+  margin-bottom:5px;
+}
+
 .container-narrow
 {
-  padding-left:15px;
-  padding-right:15px;
-  padding-top:15px;
-  height:100%;
-  margin: 0 auto;
-  margin-top:-20px;
-  max-width: 1200px;
-  background-color:white;
+  width:97%;
+  margin:auto;
 }
   
 .stickyFooter
