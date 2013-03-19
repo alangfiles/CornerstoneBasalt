@@ -30,13 +30,20 @@ body
   height:40px;
   padding-left:40px;
 }
+.stickyFooter p
+{
+  padding-top:10px;
+}
 
     /* CUSTOMIZE THE CAROUSEL
     -------------------------------------------------- */
 
     /* Carousel base class */
     .carousel {
+      width:80%;
+      margin:auto;
       margin-bottom: 60px;
+      max-width:1000px;
     }
 
     .carousel .container {
