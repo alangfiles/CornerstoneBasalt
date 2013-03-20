@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 5306,
+				"buffer_size": 5635,
 				"line_ending": "Windows"
 			}
 		},
@@ -19,8 +19,16 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 1692,
+				"buffer_size": 2342,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 105939,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -128,6 +136,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ALan/Documents/GitHub/CornerstoneBasalt/css/bootstrap.css",
+		"/C/Users/ALan/Documents/GitHub/CornerstoneBasalt/css/bootstrap-responsive.css",
+		"/C/Users/ALan/Documents/GitHub/CornerstoneBasalt/css/bootstrap-responsive.min.css",
 		"/C/Users/ALan/Documents/GitHub/JourneyToTheEndOfTheNightColumbus/css/main.css",
 		"/C/Users/ALan/Documents/GitHub/JourneyToTheEndOfTheNightColumbus/thanks.html",
 		"/C/Users/ALan/Documents/GitHub/JourneyToTheEndOfTheNightColumbus/about.html",
@@ -156,6 +167,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"media",
+			"font-family",
+			"font-family:\"Times New Roman\",Georgia,Serif;",
+			"font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif",
 			"introCarousel",
 			">\n",
 			"robotPlaceholder.jpg",
@@ -187,6 +202,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"font-family:\"Times New Roman\",Georgia,Serif;",
 			"image.png",
 			"#800000",
 			"More Info",
@@ -204,7 +220,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -212,15 +228,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 5306,
+						"buffer_size": 5635,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2613,
-								2476
+								30,
+								31
 							]
 						],
 						"settings":
@@ -230,7 +246,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 630.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -240,15 +256,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 1692,
+						"buffer_size": 2342,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1354,
-								1354
+								600,
+								600
 							]
 						],
 						"settings":
@@ -258,7 +274,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 761.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/bootstrap.min.css",
+					"settings":
+					{
+						"buffer_size": 105939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2541,
+								2552
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 16184.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
