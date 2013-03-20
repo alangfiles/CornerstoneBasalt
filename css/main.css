@@ -5,7 +5,10 @@
 body
 {
   background-color: #4D1810;
-  font-family: times, serif;
+  background-image: url('../img/Cross_CSS_BG.png');
+  background-repeat:repeat;
+  font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 .hero-module
@@ -16,12 +19,25 @@ body
   margin-bottom:5px;
 }
 
-.module 
+.span4 
 {
-  padding:10px;
   background-color:white;
   border-radius:8px;
-  margin-bottom:5px;
+}
+
+.module{
+  margin-top:20px;
+  padding:0px 10px 10px 10px;
+}
+
+.module .last
+{
+  padding-bottom:15px;
+}
+
+.spacer
+{
+  height:20px;
 }
 
 .module h2
@@ -110,12 +126,12 @@ body
       margin-top: 10px;
     }
     
-@media (max-width: 767px)
+@media (max-width: 767px) {
    footer {
       margin-right: -20px;
       margin-left: -20px;
    }
-
+}
 
 
 
