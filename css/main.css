@@ -9,6 +9,7 @@ body
   background-repeat:repeat;
   font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   -webkit-font-smoothing: antialiased;
+/*  font-family: "wf_SegoeUI","Segoe UI","Segoe","Segoe WP","Tahoma","Verdana","Arial","sans-serif";*/
 }
 
 .hero-module
